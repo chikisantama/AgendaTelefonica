@@ -126,5 +126,13 @@ public class Agenda {
         return contadorLibres;
     }
     
+    public void git (){
+        int num1 =1;
+        int numValor=0;
+        
+        numValor = num1 +1;
+        
+    }
+    
 
     }
